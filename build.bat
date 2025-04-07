@@ -1,2 +1,2 @@
 @echo off
-echo Building the project...
+echo Start the build activity
