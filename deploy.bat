@@ -1,2 +1,2 @@
 @echo off
-echo Deploying to %1 environment...
+echo Deploy to Prod 
